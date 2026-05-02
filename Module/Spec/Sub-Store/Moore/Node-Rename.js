@@ -1,5 +1,5 @@
 /**
- * Rabbit-Spec Sub-Store node rename script.
+ * Sunrise Sub-Store node rename script.
  *
  * Usage:
  *   Add this file as a Sub-Store script operation.
