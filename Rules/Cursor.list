@@ -1,0 +1,17 @@
+# NAME: Sunrise Cursor
+# AUTHOR: sunrise0o0
+# REPO: https://github.com/sunrise0o0/sunrise-surge-rules
+# UPDATED: 2026.05.02
+# TOTAL: 6
+# SOURCE: https://cursor.com/en-US/security
+# SOURCE: https://forum.cursor.com/t/what-are-the-urls-needed-to-whitelist-them-in-the-corporate-firewall/15462
+
+# ======= Cursor Official Runtime ========
+DOMAIN-SUFFIX,cursor.sh
+DOMAIN-SUFFIX,cursorapi.com
+DOMAIN,cursor-cdn.com
+DOMAIN-SUFFIX,cursor.com
+DOMAIN,anysphere-binaries.s3.us-east-1.amazonaws.com
+
+# ======= Cursor Desktop Shell Compatibility ========
+DOMAIN-SUFFIX,todesktop.com
